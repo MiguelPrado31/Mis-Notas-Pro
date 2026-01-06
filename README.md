@@ -1,4 +1,4 @@
-# 🛍️ Mis-Notas-Pro 
+# 📝 Mis-Notas-Pro 
 ### Aplicación web de notas construida con MongoDB, Express, React y Node.js que permite crear, editar y eliminar notas mediante una API REST.
 ---
 

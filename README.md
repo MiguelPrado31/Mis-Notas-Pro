@@ -15,9 +15,6 @@
 ### *- Modificar nota:*
 <img width="1920" height="998" alt="modificar_mern" src="https://github.com/user-attachments/assets/06bb1fdf-7c3f-4af0-9d81-079dee1f5800" />
 
-### *- Vista del Panel de MongoDB con las Notas Guardadas en la Base de Datos:*
-<img width="1412" height="605" alt="db_mern" src="https://github.com/user-attachments/assets/27d244ec-870b-4213-b4c4-19800cf79607" />
-
 
 ## 🚀 Características
 - Manejo de rutas y controladores.
